@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph_bottom"
+    app:startDestination="@id/home2">
+
+    <fragment
+        android:id="@+id/home2"
+        android:name="com.codecoy.fitnesskiodkapp.ui.Home"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_home2_to_classes"
+            app:destination="@id/classes" />
+        <action
+            android:id="@+id/action_home2_to_equipment"
+            app:destination="@id/equipment" />
+    </fragment>
+    <fragment
+        android:id="@+id/classes"
+        android:name="com.codecoy.fitnesskiodkapp.ui.Classes"
+        android:label="fragment_classes"
+        tools:layout="@layout/fragment_classes" >
+        <action
+            android:id="@+id/action_classes_to_equipment"
+            app:destination="@id/equipment" />
+        <action
+            android:id="@+id/action_classes_to_classDisplay"
+            app:destination="@id/classDisplay" />
+    </fragment>
+    <fragment
+        android:id="@+id/equipment"
+        android:name="com.codecoy.fitnesskiodkapp.ui.Equipment"
+        android:label="fragment_equipment"
+        tools:layout="@layout/fragment_equipment" >
+
+        <action
+            android:id="@+id/action_equipment_to_equipmentDisplay"
+            app:destination="@id/equipmentDisplay" />
+
+    </fragment>
+
+
+    <action android:id="@+id/action_global_home2"
+        app:destination="@id/home2"
+        app:launchSingleTop="true"
+        app:popUpTo="@+id/nav_graph_bottom"
+        app:popUpToInclusive="true"
+        />
+    <fragment
+        android:id="@+id/classDisplay"
+        android:name="com.codecoy.fitnesskiodkapp.ui.ClassDisplay"
+        android:label="fragment_class_display"
+        tools:layout="@layout/fragment_class_display" >
+        <action
+            android:id="@+id/action_classDisplay_to_review"
+            app:destination="@id/review"
+            />
+    </fragment>
+    <fragment
+        android:id="@+id/equipmentDisplay"
+        android:name="com.codecoy.fitnesskiodkapp.ui.EquipmentDisplay"
+        android:label="fragment_equipment_display"
+        tools:layout="@layout/fragment_equipment_display" >
+        <action
+            android:id="@+id/action_equipmentDisplay_to_classDisplay"
+            app:destination="@id/classDisplay" />
+    </fragment>
+    <fragment
+        android:id="@+id/review"
+        android:name="com.codecoy.fitnesskiodkapp.ui.Review"
+        android:label="fragment_review"
+        tools:layout="@layout/fragment_review" >
+        <action
+            android:id="@+id/action_review_to_bookedTraining"
+            app:destination="@id/bookedTraining"
+            app:popUpTo="@+id/classes"
+            app:popUpToInclusive="true"
+
+            />
+    </fragment>
+    <fragment
+        android:id="@+id/bookedTraining"
+        android:name="com.codecoy.fitnesskiodkapp.ui.BookedTraining"
+        android:label="fragment_booked_training"
+        tools:layout="@layout/fragment_booked_training" />
+</navigation>

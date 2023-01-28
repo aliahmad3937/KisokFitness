@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PACK</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_text">Enter Email/Password provided by the Admin</string>
+    <string name="book_trainer">Would you like to book a \npersonal training \nsession?</string>
+    <string name="thank_u">"Session Booked.\nThank you for your time."</string>
+    <string name="email_pass">Enter email/Password Provided by the admin to login</string>
+
+
+    <!--Menu-->
+
+
+    <string name="select_file">Select Video</string>
+
+    <!--Play Image Button Description-->
+
+
+    <string name="image_button_desc">This is the play and pause button for the video player.</string>
+
+    <!--Default value-->
+
+
+    <string name="default_value">00:00</string>
+    <string name="title">Rangewater</string>
+    <string name="sub_title">boundless</string>
+    <string name="touch_to_begin">TOUCH TO BEGIN</string>
+    <string name="powered_by">POWERED BY</string>
+    <string name="please_wait">Please wait</string>
+</resources>

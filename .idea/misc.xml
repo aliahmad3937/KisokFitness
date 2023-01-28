@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable-mdpi/bg_et_login.xml" value="0.2205" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable-mdpi/bg_item_equipment.xml" value="0.148" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable-mdpi/ic_baseline_home_24.xml" value="0.2225" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.264" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable-xlarge/bg_btn_booking.xml" value="0.2935" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable-xlarge/bg_btn_home.xml" value="0.2545" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable-xlarge/bg_btn_submit.xml" value="0.2545" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable-xlarge/bg_card_item_class.xml" value="0.1" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable-xlarge/bg_item_eqipment_image.xml" value="0.136" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable-xlarge/bg_item_equipment.xml" value="0.2545" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable-xlarge/bg_item_equipment_text.xml" value="0.2545" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable-xlarge/bg_item_recomend.xml" value="0.1" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable-xlarge/bg_start_now.xml" value="0.149" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable-xlarge/bg_title.xml" value="0.2545" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable-xxhdpi/bg_start_now.xml" value="0.149" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable-xxxhdpi/bg_btn_home.xml" value="0.2545" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable-xxxhdpi/bg_item_equipment_text.xml" value="0.148" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable-xxxhdpi/bg_item_recomend.xml" value="0.254" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable/bg_btn_booking.xml" value="0.2935" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable/bg_btn_home.xml" value="0.2545" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable/bg_btn_submit.xml" value="0.254" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable/bg_card_item_class.xml" value="0.2" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable/bg_item_eqipment_image.xml" value="0.136" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable/bg_item_equipment.xml" value="0.136" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable/bg_item_equipment_text.xml" value="0.136" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable/bg_item_recomend.xml" value="0.244" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable/bg_start_now.xml" value="0.149" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable/bg_title.xml" value="0.2545" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable/ic_background.xml" value="0.264" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable/ic_baseline_play_arrow_24.xml" value="0.2205" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.264" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable/ic_rangewater_logo.xml" value="0.151" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable/ic_vector.xml" value="0.2545" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable/seek_bar_layer.xml" value="0.18" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/drawable/seek_bar_thumb_selector.xml" value="0.18" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/font/font.xml" value="0.3958333333333333" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout-xlarge/activity_booked_training.xml" value="0.25" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout-xlarge/activity_class_display.xml" value="0.275" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout-xlarge/activity_class_video.xml" value="0.275" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout-xlarge/activity_equipment_display.xml" value="0.275" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout-xlarge/activity_main.xml" value="0.14" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout-xlarge/activity_review.xml" value="0.25" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout-xlarge/bookin_dialog.xml" value="0.25" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout-xlarge/custom_controler.xml" value="0.25" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout-xlarge/custom_spinner_item.xml" value="0.153125" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout-xlarge/fragment_booked_training.xml" value="0.18" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout-xlarge/fragment_class_display.xml" value="0.16" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout-xlarge/fragment_classes.xml" value="0.33" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout-xlarge/fragment_equipment.xml" value="0.25" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout-xlarge/fragment_equipment_display.xml" value="0.271875" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout-xlarge/fragment_home.xml" value="0.16" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout-xlarge/fragment_login.xml" value="0.18" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout-xlarge/fragment_navigation_screen.xml" value="0.25" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout-xlarge/fragment_review.xml" value="0.18" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout-xlarge/fragment_splash_screen.xml" value="0.18" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout-xlarge/item_class_category.xml" value="0.271875" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout-xlarge/item_classes.xml" value="0.275" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout-xlarge/item_equipment.xml" value="0.275" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout-xlarge/item_recomend.xml" value="0.275" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout/activity_booked_training.xml" value="0.22" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout/activity_class_display.xml" value="0.33" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout/activity_class_video.xml" value="0.36666666666666664" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout/activity_equipment_display.xml" value="0.33" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout/activity_review.xml" value="0.33" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout/activity_video.xml" value="0.35260416666666666" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout/bookin_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout/custom_controler.xml" value="0.3625" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout/custom_spinner_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout/fragment_booked_training.xml" value="0.18" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout/fragment_class_display.xml" value="0.22" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout/fragment_classes.xml" value="0.22" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout/fragment_equipment.xml" value="0.2" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout/fragment_equipment_display.xml" value="0.3569230769230769" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout/fragment_login.xml" value="0.22" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout/fragment_navigation_screen.xml" value="0.25" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout/fragment_review.xml" value="0.25" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout/fragment_splash_screen.xml" value="0.22" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout/item_class_category.xml" value="0.3614583333333333" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout/item_classes.xml" value="0.25" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout/item_equipment.xml" value="0.33" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/layout/item_recomend.xml" value="0.36666666666666664" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/menu/app_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/menu/navigation_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/CodeCoyAndroidProjects/FitnessKiodkApp/app/src/main/res/xml/network.xml" value="0.1" />
+        <entry key="..\:/CodeCoyAndroidProjectsAli/FitnessKiodkApp/app/src/main/res/layout-xlarge/activity_main.xml" value="0.251953125" />
+        <entry key="..\:/CodeCoyAndroidProjectsAli/FitnessKiodkApp/app/src/main/res/layout-xlarge/bookin_dialog.xml" value="0.251953125" />
+        <entry key="..\:/CodeCoyAndroidProjectsAli/FitnessKiodkApp/app/src/main/res/layout-xlarge/custom_controler.xml" value="0.251953125" />
+        <entry key="..\:/CodeCoyAndroidProjectsAli/FitnessKiodkApp/app/src/main/res/layout-xlarge/custom_spinner_item.xml" value="0.251953125" />
+        <entry key="..\:/CodeCoyAndroidProjectsAli/FitnessKiodkApp/app/src/main/res/layout-xlarge/fragment_booked_training.xml" value="0.251953125" />
+        <entry key="..\:/CodeCoyAndroidProjectsAli/FitnessKiodkApp/app/src/main/res/layout-xlarge/fragment_class_display.xml" value="0.251953125" />
+        <entry key="..\:/CodeCoyAndroidProjectsAli/FitnessKiodkApp/app/src/main/res/layout-xlarge/fragment_classes.xml" value="0.251953125" />
+        <entry key="..\:/CodeCoyAndroidProjectsAli/FitnessKiodkApp/app/src/main/res/layout-xlarge/fragment_equipment.xml" value="0.251953125" />
+        <entry key="..\:/CodeCoyAndroidProjectsAli/FitnessKiodkApp/app/src/main/res/layout-xlarge/fragment_equipment_display.xml" value="0.251953125" />
+        <entry key="..\:/CodeCoyAndroidProjectsAli/FitnessKiodkApp/app/src/main/res/layout-xlarge/fragment_home.xml" value="0.251953125" />
+        <entry key="..\:/CodeCoyAndroidProjectsAli/FitnessKiodkApp/app/src/main/res/layout-xlarge/fragment_login.xml" value="0.251953125" />
+        <entry key="..\:/CodeCoyAndroidProjectsAli/FitnessKiodkApp/app/src/main/res/layout-xlarge/fragment_navigation_screen.xml" value="0.251953125" />
+        <entry key="..\:/CodeCoyAndroidProjectsAli/FitnessKiodkApp/app/src/main/res/layout-xlarge/fragment_review.xml" value="0.251953125" />
+        <entry key="..\:/CodeCoyAndroidProjectsAli/FitnessKiodkApp/app/src/main/res/layout-xlarge/fragment_splash_screen.xml" value="0.16" />
+        <entry key="..\:/CodeCoyAndroidProjectsAli/FitnessKiodkApp/app/src/main/res/layout/activity_main.xml" value="0.3359375" />
+        <entry key="..\:/CodeCoyAndroidProjectsAli/FitnessKiodkApp/app/src/main/res/layout/bookin_dialog.xml" value="0.3359375" />
+        <entry key="..\:/CodeCoyAndroidProjectsAli/FitnessKiodkApp/app/src/main/res/layout/custom_controler.xml" value="0.3359375" />
+        <entry key="..\:/CodeCoyAndroidProjectsAli/FitnessKiodkApp/app/src/main/res/layout/custom_spinner_item.xml" value="0.3359375" />
+        <entry key="..\:/CodeCoyAndroidProjectsAli/FitnessKiodkApp/app/src/main/res/layout/fragment_booked_training.xml" value="0.3359375" />
+        <entry key="..\:/CodeCoyAndroidProjectsAli/FitnessKiodkApp/app/src/main/res/layout/fragment_class_display.xml" value="0.3359375" />
+        <entry key="..\:/CodeCoyAndroidProjectsAli/FitnessKiodkApp/app/src/main/res/layout/fragment_classes.xml" value="0.3359375" />
+        <entry key="..\:/CodeCoyAndroidProjectsAli/FitnessKiodkApp/app/src/main/res/layout/fragment_equipment.xml" value="0.3359375" />
+        <entry key="..\:/CodeCoyAndroidProjectsAli/FitnessKiodkApp/app/src/main/res/layout/fragment_equipment_display.xml" value="0.3359375" />
+        <entry key="..\:/CodeCoyAndroidProjectsAli/FitnessKiodkApp/app/src/main/res/layout/fragment_home.xml" value="0.3359375" />
+        <entry key="..\:/CodeCoyAndroidProjectsAli/FitnessKiodkApp/app/src/main/res/layout/fragment_login.xml" value="0.3359375" />
+        <entry key="..\:/CodeCoyAndroidProjectsAli/FitnessKiodkApp/app/src/main/res/layout/fragment_navigation_screen.xml" value="0.3359375" />
+        <entry key="..\:/CodeCoyAndroidProjectsAli/FitnessKiodkApp/app/src/main/res/layout/fragment_review.xml" value="0.3359375" />
+        <entry key="..\:/CodeCoyAndroidProjectsAli/FitnessKiodkApp/app/src/main/res/layout/fragment_splash_screen.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

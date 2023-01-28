@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="class_strt_mrg">20dp</dimen>
+    <dimen name="img_padd">-34dp</dimen>
+    <dimen name="img_padd1">-15dp</dimen>
+    <dimen name="et_width">300dp</dimen>
+    <dimen name="mrg_top">20dp</dimen>
+    <dimen name="et_textsixe">30sp</dimen>
+    <dimen name="_40">30sp</dimen>
+    <dimen name="_160">145dp</dimen>
+
+
+
+
+    <!--Sizes-->
+
+
+    <dimen name="video_height">300dp</dimen>
+
+    <dimen name="seek_bar_width">0dp</dimen>
+
+    <!--Margins-->
+
+
+    <dimen name="progress_margin">8dp</dimen>
+
+    <dimen name="image_button_margin">20dp</dimen>
+    <dimen name="wid_80">80dp</dimen>
+    <dimen name="logo_size">100dp</dimen>
+    <dimen name="et_login_width">250dp</dimen>
+    <dimen name="title_size">22sp</dimen>
+    <dimen name="sub_title_size">32sp</dimen>
+    <dimen name="category_size">50dp</dimen>
+    <dimen name="category_padding">20dp</dimen>
+    <dimen name="category_title_size">14sp</dimen>
+    <dimen name="catg_mrg_horz">12dp</dimen>
+    <dimen name="qr_image_size">80dp</dimen>
+
+</resources>

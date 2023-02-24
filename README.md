@@ -25,17 +25,15 @@ Users can also filter Videos on base of Exercise Categories, Can book appointmen
 
 # Pictures
 <p float="left">
-<img src="https://github.com/aliahmad3937/Noted/blob/master/asset/audioNote.jpeg" width="150" height="280">
-<img src="https://github.com/aliahmad3937/Noted/blob/master/asset/colorPiker.jpeg" width="150" height="280">
-<img src="https://github.com/aliahmad3937/Noted/blob/master/asset/drawer.jpeg" width="150" height="280">
-<img src="https://github.com/aliahmad3937/Noted/blob/master/asset/login.jpeg" width="150" height="280">
-<img src="https://github.com/aliahmad3937/Noted/blob/master/asset/note.jpeg" width="150" height="280">
+<img src="https://github.com/aliahmad3937/KisokFitness/blob/master/asset/buffering.jpeg" width="150" height="280">
+<img src="https://github.com/aliahmad3937/KisokFitness/blob/master/asset/detail.jpeg" width="150" height="280">
+<img src="https://github.com/aliahmad3937/KisokFitness/blob/master/asset/detail2.jpeg" width="150" height="280">
+<img src="https://github.com/aliahmad3937/KisokFitness/blob/master/asset/eqipments.jpeg" width="150" height="280">
 </p>
 
 <p float="left">
-<img src="https://github.com/aliahmad3937/Noted/blob/master/asset/paint.jpeg" width="150" height="280">
-<img src="https://github.com/aliahmad3937/Noted/blob/master/asset/signup.jpeg" width="150" height="280">
-<img src="https://github.com/aliahmad3937/Noted/blob/master/asset/subscription.jpeg" width="150" height="280">
+<img src="https://github.com/aliahmad3937/KisokFitness/blob/master/asset/homePage.jpeg" width="150" height="280">
+<img src="https://github.com/aliahmad3937/KisokFitness/blob/master/asset/workout.jpeg" width="150" height="280">
 
 </p>
 
